@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KKS_StudioKeybinds", "KKS_StudioKeybinds\KKS_StudioKeybinds.csproj", "{EF6AE6F4-9A42-4537-B729-DE9D565FE377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KK_StudioKeybinds", "KK_StudioKeybinds\KK_StudioKeybinds.csproj", "{91AB38F0-AD21-424E-8C4E-1656BFE9E9F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF6AE6F4-9A42-4537-B729-DE9D565FE377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF6AE6F4-9A42-4537-B729-DE9D565FE377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF6AE6F4-9A42-4537-B729-DE9D565FE377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF6AE6F4-9A42-4537-B729-DE9D565FE377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91AB38F0-AD21-424E-8C4E-1656BFE9E9F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91AB38F0-AD21-424E-8C4E-1656BFE9E9F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91AB38F0-AD21-424E-8C4E-1656BFE9E9F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91AB38F0-AD21-424E-8C4E-1656BFE9E9F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27B2A815-ECFC-4E41-BE6E-920AC83AC53B}
+	EndGlobalSection
+EndGlobal
